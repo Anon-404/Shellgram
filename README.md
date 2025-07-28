@@ -75,6 +75,8 @@ Currently, Shellgram needs to be compiled and configured manually. In future upd
 * 🔧 Automatically set bot token & chat ID
 * ⚙️ Auto compile and bind Shellgram with a payload
 * 🛆 Generate attack-ready executables
+* 🔒 Obfuscate the final binary for stealth
+* 🖥️ Compile based on target system architecture (x86_64, arm, etc.)
 
 Stay tuned!
 
